@@ -16,6 +16,6 @@ public class AssetsModel {
     private String code;
     private String name;
     private Double activationCost;
-    private List<DaysModel> availability;
+    private List<String> availability;
     private Integer volume;
 }
